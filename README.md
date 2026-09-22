@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Riazul Islam</h1>
 
 <h3 align="center">
-💻 MERN Stack Developer • 📊 Data Analytics Enthusiast
+💻 MERN Stack Developer • 🔍 Software Testing & QA
 </h3>
 
 <p align="center">
@@ -13,11 +13,13 @@
 
 ## 🚀 About Me
 
-- 💻 Passionate about Full-Stack Web Development
-- ⚛️ Building applications with the MERN Stack
-- 📊 Exploring Data Analytics using Python & SQL
-- 🌱 Continuously improving my development skills
-- 🎯 Open to Software Developer & Data Analyst Internship Opportunities
+* 💻 Passionate about Full-Stack Web Development
+* ⚛️ Building applications with the MERN Stack
+* 🧪 Exploring Software Testing & Quality Assurance
+* 🔍 Interested in writing test cases, finding bugs, and improving software quality
+* 🌱 Continuously improving my technical and problem-solving skills
+* 🎯 Open to Software Developer & SQA/QA Internship Opportunities
+
 
 ---
 
