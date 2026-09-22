@@ -6,7 +6,7 @@
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+MERN+Developer;Building+Real+World+Projects;Data+Analytics+Enthusiast;Open+to+Internship+Opportunities" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+MERN+Developer;Aspiring+SQA+Engineer;Building+Real+World+Projects;Open+to+Internship+Opportunities" />
 </p>
 
 ---
